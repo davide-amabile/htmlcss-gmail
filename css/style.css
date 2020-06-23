@@ -1,0 +1,64 @@
+body {
+  background-image: url(../img/sfondo.jpeg);
+}
+
+#contenitore{
+  width: 50%;
+  margin: auto;
+}
+
+.logo {
+  border-bottom: 5px solid #FFFFFF;
+  padding-bottom: 3px;
+}
+
+#logo-g {
+  width: 100px;
+  vertical-align: middle;
+}
+
+#titolo1 {
+  display:inline;
+  color: #FFFFFF;
+
+}
+
+#form{
+  padding-top: 3px;
+    border-bottom: 5px solid #FFFFFF;
+}
+
+#principale{
+  font-size: 30px;
+  color: #FFFFFF;
+}
+
+#yellow{
+  background-color: #FFFF00;
+  border-radius: 100px;
+}
+
+#p-white{
+  display: inline;
+}
+
+#email {
+  padding-top: 3px;
+  border-bottom: 5px solid #FFFFFF;
+  padding-bottom: 3px;
+}
+
+#white {
+  background-color: #FFFFFF;
+  border: 1px solid #000000;
+}
+
+#grey {
+  background-color: #c0c0c0;
+  border: 1px solid #000000;
+}
+
+#foot {
+  text-align: center;
+  color:  #FFFFFF;
+}
